@@ -2,12 +2,11 @@ body {
     background-color: black;
 }
 .flex-container {
-    margin: 10px 120px;
+    margin: 10px 150px;
 }
 
 .flex-container div {
-    background: peachpuff;
-    border: 4px solid brown;
+    background: white;
     height: 200px;
   }
 .flex-container .hero {
@@ -15,14 +14,14 @@ body {
 }
 
 .flex-container .two {
-    background-color: #0c428f;
+
 }
 
 .flex-container .three {
-    background-color: #dbd808;
+    background-color: #e5e7eb;
 }
 
 .flex-container .four {
-    background-color: #860b15;
+
 }
 
