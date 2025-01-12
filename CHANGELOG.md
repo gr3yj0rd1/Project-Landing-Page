@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.1](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.9.0...v1.9.1) (2025-01-12)
+
+
+### Bug Fixes
+
+* add color and remove borders ([fa7a751](https://github.com/gr3yj0rd1/auto_changelog/commit/fa7a751401281ad4cc77384a5982f3259af0113a))
+
 ## [1.9.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.8.0...v1.9.0) (2025-01-11)
 
 
