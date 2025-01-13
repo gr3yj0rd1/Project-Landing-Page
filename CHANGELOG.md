@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.9.2](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.9.1...v1.9.2) (2025-01-13)
+
+
+### Bug Fixes
+
+* box model and content ([30ff5c2](https://github.com/gr3yj0rd1/auto_changelog/commit/30ff5c2043638d6ad6f2a6429643cf494aa3c9b7))
+
 ### [1.9.1](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.9.0...v1.9.1) (2025-01-12)
 
 
