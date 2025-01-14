@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.10.1](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.10.0...v1.10.1) (2025-01-14)
+
+
+### Bug Fixes
+
+* horizontal boxes ([643f0f9](https://github.com/gr3yj0rd1/auto_changelog/commit/643f0f92a276cb3cc2bfec22392959006d4d0b12))
+
 ## [1.10.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.9.2...v1.10.0) (2025-01-13)
 
 
