@@ -40,8 +40,8 @@ p1, p2 {
         color: #000;
         border: 2px solid rgb(96 139 168);
         border-radius: 5px;
-        background-color: rgb(96 139 168 / 0.2);
-        padding: 10px;
+        background-color: white;
+        padding: 50px;
         display: block;
       }
       
@@ -50,7 +50,6 @@ p1, p2 {
         margin: 0;
         padding: 0;
         display: flex;
-        justify-content: space-between;
       }
 }
 
@@ -63,9 +62,10 @@ nav a {
   color: #000;
   border: 2px solid rgb(96 139 168);
   border-radius: 5px;
-  background-color: rgb(96 139 168 / 0.2);
+  background-color: white;
   padding: 10px;
   display: block;
+  justify-content: center;
 }
 
 nav ul {
