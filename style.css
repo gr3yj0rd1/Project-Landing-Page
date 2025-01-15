@@ -9,7 +9,7 @@
     background-color: black;
 }
 .flex-container {
-    margin: 0px 1070px;
+    height: 1980px;
     width: 1440px;
     height: auto;
     background: white;
@@ -18,7 +18,7 @@
   
 .flex-container div {
     background: white;
-    height: 600px;
+    height: 490px;
 }
 
 .flex-container .one {
@@ -63,7 +63,7 @@ nav a {
   border: 2px solid rgb(96 139 168);
   border-radius: 5px;
   background-color: white;
-  padding: 10px;
+  padding: 50px;
   display: block;
   justify-content: center;
 }
@@ -83,7 +83,8 @@ nav ul {
     color: #1f2937;
     text-align: left;
     justify-content: center;
-    padding: 140px;
+    padding: 200px 200px 0px 200px;
+    bottom: auto;
 }
 
 h1 {
