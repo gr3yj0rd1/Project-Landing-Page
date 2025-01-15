@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.11.0](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.10.1...v1.11.0) (2025-01-15)
+
+
+### Features
+
+* add content ([cb7f852](https://github.com/gr3yj0rd1/auto_changelog/commit/cb7f8524cba013ab6eedeff0ba3bb3d369c56cab))
+
 ### [1.10.1](https://github.com/gr3yj0rd1/auto_changelog/compare/v1.10.0...v1.10.1) (2025-01-14)
 
 

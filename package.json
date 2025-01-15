@@ -1,6 +1,6 @@
 {
   "name": "@greygianni/auto_changelog",
-  "version": "1.10.1",
+  "version": "1.11.0",
   "main": "index.js",
   "repository": {
     "type": "git",
